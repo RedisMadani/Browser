@@ -1,7 +1,8 @@
-# SafariMockApp
+# Browser
 
+![Browser](https://github.com/RedisMadani/Browser/assets/136177376/67944178-dd7f-4b55-bc42-c58eab28bfa7)
 
-Welcome to SafariMockApp! This app emulates the Safari web browser on iOS and provides a similar browsing experience. It is implemented using WKWebView and leverages its Key-Value Observing (KVO) and Error Handling features, along with the assistance of WKNavigationDelegate, UIAlertViewController, UIProgressBar, and UIToolBar.
+Welcome to Browser! This app emulates the Safari web browser on iOS and provides a similar browsing experience. It is implemented using WKWebView and leverages its Key-Value Observing (KVO) and Error Handling features, along with the assistance of WKNavigationDelegate, UIAlertViewController, UIProgressBar, and UIToolBar.
 
 ## Features
 
@@ -15,20 +16,20 @@ Welcome to SafariMockApp! This app emulates the Safari web browser on iOS and pr
 
 ## Getting Started
 
-To run SafariMockApp on your device or simulator, follow these steps:
+To run Browser on your device or simulator, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RedisMadani/SafariMockApp.git
+   git clone https://github.com/RedisMadani/Browser.git
    ```
 
-2. Open the Xcode project file `SafariMockApp.xcodeproj`.
+2. Open the Xcode project file `Browser.xcodeproj`.
 
 3. Select your desired destination (device or simulator) and click the "Run" button or press `Cmd+R` to build and launch the app.
 
 ## Usage
 
-Once you have launched SafariMockApp, you can browse the web and interact with its features:
+Once you have launched Browser, you can browse the web and interact with its features:
 
 - Enter a URL in the address bar at the top of the screen and tap the "Go" button to navigate to the specified website.
 - Use the back, forward, and refresh buttons in the toolbar to navigate through web pages and reload the current page.
@@ -37,7 +38,7 @@ Once you have launched SafariMockApp, you can browse the web and interact with i
 
 ## Troubleshooting
 
-If you encounter any issues while using SafariMockApp, please try the following troubleshooting steps:
+If you encounter any issues while using Browser, please try the following troubleshooting steps:
 
 - Ensure that you are running the latest version of Xcode.
 - Clean the project (`Shift+Cmd+K`) and rebuild it (`Cmd+B`).
@@ -46,9 +47,9 @@ If you encounter any issues while using SafariMockApp, please try the following 
 
 ## Contributing
 
-We welcome contributions to SafariMockApp! If you have any ideas, bug fixes, or new features to propose, please follow these steps:
+We welcome contributions to Browser! If you have any ideas, bug fixes, or new features to propose, please follow these steps:
 
-1. Fork the SafariMockApp repository.
+1. Fork the Browser repository.
 2. Create a new branch based on your changes:
    ```bash
    git checkout -b my-new-feature
@@ -67,4 +68,4 @@ Please ensure that your code follows the existing style conventions and includes
 
 ## License
 
-SafariMockApp is released under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for more details.
+Browser is released under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for more details.
